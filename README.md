@@ -1,9 +1,10 @@
-#althro's dwm build
+# althro's dwm build
 My personal dwm build heavily inspired by [luke's build](https://github.com/lukesmithxyz/dwm)
 
 ## Patches and Features
 - Clickable status bar with [dwmblocks](https://github.com/throal/dwmblocks)
 - Xresources and pywal support
+- New layouts: bstack, fibonacci, deck, centered master and more. All bound to keys `super+(shift+)t/y/u/i`
 - scratchpads: (`super+shift+enter`)
 - actualfullscreen: toggle fullscreen for a window (`super+f`)
 - sticky: make client visible on all tags (`super+s`)
